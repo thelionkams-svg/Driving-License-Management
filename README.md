@@ -12,4 +12,4 @@ CRUD operations for people, license classes, and system users with permissions c
 
 Audit logging to track all user actions and maintain data integrity.
 
-⚠️ Status: Under development – continuous improvements and feature expansion are ongoing
+Status: Under development – continuous improvements and feature expansion are ongoing
