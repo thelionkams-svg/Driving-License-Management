@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|c:\\users\\test\\desktop\\the project\\2 - my practice project\\2 - my practice project\\dvld_main\\applications\\local driving license\\controls\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|solutionrelative:applications\\local driving license\\controls\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|c:\\users\\test\\desktop\\the project\\2 - my practice project\\2 - my practice project\\dvld_main\\applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|solutionrelative:applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|c:\\users\\test\\desktop\\the project\\2 - my practice project\\2 - my practice project\\dvld_main\\applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|solutionrelative:applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|c:\\users\\test\\desktop\\the project\\2 - my practice project\\2 - my practice project\\dvld_main\\applications\\local driving license\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|solutionrelative:applications\\local driving license\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|c:\\users\\test\\desktop\\the project\\2 - my practice project\\2 - my practice project\\dvld_main\\applications\\local driving license\\controls\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|solutionrelative:applications\\local driving license\\controls\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|c:\\users\\test\\desktop\\the project\\2 - my practice project\\2 - my practice project\\dvld_main\\applications\\local driving license\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F770A795-877A-40F3-B23C-811B8993E967}|DVLD_Main.csproj|solutionrelative:applications\\local driving license\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FRMLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:22:49.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FRMLocalDrivingLicenseApplicationInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs",
+              "RelativeToolTip": "Applications\\Local Driving License\\FRMLocalDrivingLicenseApplicationInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:23:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CTRLDrivingLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:22:42.563Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CTRLDrivingLicenseApplicationInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs",
+              "RelativeToolTip": "Applications\\Local Driving License\\Controls\\CTRLDrivingLicenseApplicationInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:23:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CTRLApplicationBasicInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Controls\\CTRLApplicationBasicInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Controls\\CTRLApplicationBasicInfo.cs",
+              "ToolTip": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Controls\\CTRLApplicationBasicInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\Controls\\CTRLApplicationBasicInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:22:36.537Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CTRLApplicationBasicInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Controls\\CTRLApplicationBasicInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Controls\\CTRLApplicationBasicInfo.cs",
+              "ToolTip": "C:\\Users\\Test\\Desktop\\The Project\\2 - My Practice Project\\2 - My Practice Project\\DVLD_Main\\Applications\\Controls\\CTRLApplicationBasicInfo.cs",
+              "RelativeToolTip": "Applications\\Controls\\CTRLApplicationBasicInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:22:58.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

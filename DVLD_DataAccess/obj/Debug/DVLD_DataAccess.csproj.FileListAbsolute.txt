@@ -1,0 +1,6 @@
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\2 - My Practice Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\2 - My Practice Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\2 - My Practice Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\2 - My Practice Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\2 - My Practice Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\2 - My Practice Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
